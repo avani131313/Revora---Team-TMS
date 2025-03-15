@@ -117,7 +117,6 @@ pyobjc-framework-InputMethodKit==11.0
 pyobjc-framework-InstallerPlugins==11.0
 pyobjc-framework-InstantMessage==11.0
 pyobjc-framework-Intents==11.0
-pyobjc-framework-IntentsUI==11.0
 pyobjc-framework-IOBluetooth==11.0
 pyobjc-framework-IOBluetoothUI==11.0
 pyobjc-framework-IOSurface==11.0
