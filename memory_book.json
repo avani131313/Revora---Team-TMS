@@ -1,0 +1,36 @@
+{
+    "avani": [
+        {
+            "sender": "tanush",
+            "message": "hi"
+        }
+    ],
+    "Sania ": [
+        {
+            "sender": "Tanush",
+            "message": "I really like your eyes "
+        },
+        {
+            "sender": "Tanush",
+            "message": "I really like your eyes "
+        }
+    ],
+    "Tamanna": [
+        {
+            "sender": "Tanush",
+            "message": "I really like your eyes "
+        }
+    ],
+    "Avani@123": [
+        {
+            "sender": "Tanush",
+            "message": "Your journey is inspiring!"
+        }
+    ],
+    "Avani": [
+        {
+            "sender": "Tam",
+            "message": "I like your smile"
+        }
+    ]
+}
